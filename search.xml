@@ -4,13 +4,56 @@
   
     
     <entry>
-      <title>kaggle 30days</title>
-      <link href="/2024/01/24/kaggle-30-days/"/>
-      <url>/2024/01/24/kaggle-30-days/</url>
+      <title>ML</title>
+      <link href="/2024/01/23/cate-ML-2024-01-23-kaggle-30days/"/>
+      <url>/2024/01/23/cate-ML-2024-01-23-kaggle-30days/</url>
       
-        <content type="html"><![CDATA[<h1 id="kaggle-30days"><a href="#kaggle-30days" class="headerlink" title="kaggle 30days"></a>kaggle 30days</h1><p>这是我的第一篇博客，同时也是我入门kaggle的记录。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="ML-30days"><a href="#ML-30days" class="headerlink" title="ML_30days"></a>ML_30days</h1><p>你好这是我的文章</p>]]></content>
       
       
+      <categories>
+          
+          <category> ML </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> kaggle </tag>
+            
+            <tag> default，ML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>kaggle_30days</title>
+      <link href="/2024/01/23/cate-kaggles-2024-01-23-kaggle-30days/"/>
+      <url>/2024/01/23/cate-kaggles-2024-01-23-kaggle-30days/</url>
+      
+        <content type="html"><![CDATA[<h1 id="kaggle-30days"><a href="#kaggle-30days" class="headerlink" title="kaggle_30days"></a>kaggle_30days</h1><p>这是30天上手kaggle的实战跟练记录，希望自己坚持！</p><h2 id="DAY01"><a href="#DAY01" class="headerlink" title="DAY01"></a>DAY01</h2><p><img src="/images/2024-01-23-kaggle_30days/1.jpg" alt="1"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> kaggle </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> default </tag>
+            
+            <tag> kaggle </tag>
+            
+            <tag> ML </tag>
+            
+        </tags>
       
     </entry>
     
@@ -21,9 +64,15 @@
       <link href="/2024/01/01/2024-01-01/"/>
       <url>/2024/01/01/2024-01-01/</url>
       
-        <content type="html"><![CDATA[<h1 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h1><h2 id="写在2024年开头的话"><a href="#写在2024年开头的话" class="headerlink" title="写在2024年开头的话"></a>写在2024年开头的话</h2><pre><code>世上无难事，只怕有心人！</code></pre>]]></content>
+        <content type="html"><![CDATA[<h1 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h1><p>写在2024年开头的话，世上无难事，只怕有心人！<br>本篇文章也用于记录网站美化以及内容更新！</p><h3 id="2024-01-23"><a href="#2024-01-23" class="headerlink" title="2024-01-23"></a>2024-01-23</h3><pre><code>1. 创建了kaggle_30_days.2. 添加了页脚，添加了两个cate3. 学会使用tag</code></pre>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> default </tag>
+            
+        </tags>
       
     </entry>
     
