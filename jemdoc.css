@@ -1,9 +1,5 @@
 /* Default css file for jemdoc. */
-#main-container {
-    width: 80%; /* You can adjust this value as needed */
-    margin: 0 auto; /* This will center the container */
-    text-align: center; /* This will center the text inside the container */
-}
+
 table#tlayout {
     border: none;
     border-collapse: separate;
