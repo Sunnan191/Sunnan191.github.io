@@ -25,7 +25,7 @@ body {
 	white-space: nowrap;
     text-align: left;
     vertical-align: top;
-	position: fixed; #fix menu
+	position: sticky; #fix menu
 }
 
 #layout-menu td {
