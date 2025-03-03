@@ -77,9 +77,28 @@ I am currently pursuing the M.S. degree at IIE, CAS. My main research direction 
   <div style="border-left: 2px solid lightgray; padding-left: 10px;">
     <p><b>"Conformal Graph-level Out-of-distribution Detection with Adaptive Data Augmentation"</b></p>
     <p> Xixun Lin, Yanan Cao*(Supervisor), <b>Nan Sun</b>, Lixin Zou, Chuan Zhou, Peng Zhang, Shuai Zhang, Ge Zhang, Jia Wu. </p>
-    <p> International World Wide Web Conferences (WWW2025,CCF-A)   [<a href="pdfs/CGOD_WWW2025.pdf">pdf</a>][<a href="https://sunnan191-github-io.vercel.app">code preparing</a>]</p>
+    <p> International World Wide Web Conferences (WWW2025,CCF-A)   
+      [<a href="pdfs/CGOD_WWW2025.pdf">pdf</a>]
+      [<a href="https://sunnan191-github-io.vercel.app">code preparing</a>]
+      [<a href="#" id="CGOD">pipeline</a>]
+    </p>
+    <!-- 管道图图片部分 -->
+    <div id="CGOD" style="display: none; margin-top: 10px;">
+      <img src="pdfs/CGOD_WWW2025.svg" alt="CGOD_pipeline" style="width:100%; max-width:600px;"/>
+    </div>
   </div>
 </ol>
+<script>
+  document.getElementById('CGOD').addEventListener('click', function(event) {
+    event.preventDefault(); // 防止默认链接行为
+    var pipelineDiv = document.getElementById('pipelineImage');
+    if (pipelineDiv.style.display === 'none' || pipelineDiv.style.display === '') {
+      pipelineDiv.style.display = 'block';
+    } else {
+      pipelineDiv.style.display = 'none';
+    }
+  });
+</script>
 
 <p><b>Note</b>: * indicates the corresponding author.</p>
 <!--
