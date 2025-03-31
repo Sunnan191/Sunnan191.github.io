@@ -25,12 +25,14 @@ body {
 	white-space: nowrap;
     text-align: left;
     vertical-align: text-top;
+	position: sticky;
 }
 
 #layout-menu td {
 	background: #d8d7d7;
 	text-align: center;
     vertical-align: text-top;
+	position: sticky;
 }
 
 #layout-content {
