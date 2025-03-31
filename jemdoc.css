@@ -24,17 +24,23 @@ body {
 	width: auto;
 	white-space: nowrap;
     text-align: left;
-    vertical-align: text-top;
+    vertical-align: top;
+
 	position: sticky;
-	top: 0; /* Distance from top of viewport where it sticks */
-    z-index: 100;
+    top: 0; /* 距离视口顶部 0px 时固定 */
+    height: 100vh; /* 可选：让菜单占满整个视口高度 */
+    overflow-y: auto;
 }
 
 #layout-menu td {
 	background: #d8d7d7;
 	text-align: center;
-    vertical-align: text-top;
+    vertical-align: top;
+
 	position: sticky;
+    top: 0; /* 距离视口顶部 0px 时固定 */
+    height: 100vh; /* 可选：让菜单占满整个视口高度 */
+    overflow-y: auto;
 }
 
 #layout-content {
