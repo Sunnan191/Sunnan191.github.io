@@ -26,6 +26,8 @@ body {
     text-align: left;
     vertical-align: text-top;
 	position: sticky;
+	top: 0; /* Distance from top of viewport where it sticks */
+    z-index: 100;
 }
 
 #layout-menu td {
