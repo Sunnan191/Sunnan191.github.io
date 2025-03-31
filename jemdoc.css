@@ -24,13 +24,13 @@ body {
 	width: auto;
 	white-space: nowrap;
     text-align: left;
-    vertical-align: top;
+    vertical-align: text-top;
 }
 
 #layout-menu td {
 	background: #d8d7d7;
 	text-align: center;
-    vertical-align: top;
+    vertical-align: text-top;
 }
 
 #layout-content {
